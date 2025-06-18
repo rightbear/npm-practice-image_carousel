@@ -1,0 +1,11 @@
+{
+  "name": "npm-practice-image_carousel",
+  "version": "1.0.0",
+  "description": "a showSlide() function for automatic image slideshow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shih-Hsiung Chang",
+  "license": "ISC"
+}
